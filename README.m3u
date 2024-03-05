@@ -1,9 +1,7 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",GLOBO TV SP FHD
-https://m3u8.gs/a2/docs/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=SRXPed3Is9vGmuuXgmqOrg&3U1G7qaTxrPbalZnEx=1709671901
-
-
+https://m3u8.gs/a2/docs/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=v4OXbhjCU9VfBNQzChwgrw&3U1G7qaTxrPbalZnEx=1709681666
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT SP FHD
 https://m3u8.gs/a2/docs/sbt/__index.m3u8?mu3zAQc9HC3GbwJq=_HvIddtIF7tl0JbL7mJeZg&3U1G7qaTxrPbalZnEx=1709672466
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP FHD
+https://m3u8.gs/a2/docs/band/__index.m3u8?mu3zAQc9HC3GbwJq=CPkzGdcT-kxOCcgWG0twAQ&3U1G7qaTxrPbalZnEx=1709682104
