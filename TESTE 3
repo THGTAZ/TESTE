@@ -4,7 +4,7 @@
 
 #EXTINF: -1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg' group-title='TV ABERTA' , GLOBOSP HD
 
-#EXTINF:-1,GB TV Tribuna Santos FHD
+#EXTINF:-1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg' group-title='TV ABERTA' ,,GLOBO TV Tribuna Santos FHD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/150151
 
 #EXTINF:-1,GB TV Tribuna Santos HD
