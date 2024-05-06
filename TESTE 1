@@ -269,10 +269,10 @@ https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://loopstatic.net/band.png" group-title="TV ABERTA",BAND SP HD
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http:" group-title="TV ABERTA", SBT SP FHD
+#EXTINF:-1 tvg-logo="https://l1nq.com/7Jjs3" group-title="TV ABERTA", SBT SP FHD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF: -1 tvg-logo='http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrYi_-kWYPl1Kzd-innRahu85R4QuoVsv4vQRur7iFZVA.png' group-title="TV ABERTA", SBT SP HD
+#EXTINF: -1 tvg-logo='https://l1nq.com/7Jjs3' group-title="TV ABERTA", SBT SP HD
 http://199.127.60.83:16170/
 
 #EXTINF: -1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/5/5b/TV_Assembleia_(Ceará).png' group-title="TV ABERTA" , TV ASSEMBLEIA CEARÁ HD
