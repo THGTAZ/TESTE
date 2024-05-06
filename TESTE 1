@@ -2,7 +2,7 @@
 
 ############################################## TV ABERTA
 
-#EXTINF:-1, GLOBO SANTOS TV TRIBUNA FHD
+#EXTINF:-1, -1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg' group-title="TV ABERTA" ,GLOBO SANTOS TV TRIBUNA FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99768
 
 #EXTINF: -1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg' group-title="TV ABERTA" , GLOBO SP HD
